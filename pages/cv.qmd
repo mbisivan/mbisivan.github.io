@@ -39,15 +39,15 @@ Semester abroad at Université de Poitiers, France [2016 - 2017] <br>
 
 ## Teaching
 
-See [Teaching](https://mbisivan.github.io/teaching.html)
+See [Teaching](https://mbisivan.github.io/pages/teaching.html)
 
 ## Publications
 
-See [Publications](https://mbisivan.github.io/publications.html)
+See [Publications](https://mbisivan.github.io/pages/publications.html)
 
 ## Talks and Workshops
 
-See [Talks](https://mbisivan.github.io/presentations.html)
+See [Talks](https://mbisivan.github.io/pages/presentations.html)
 
 ## Skills
 Bulgarian (native), English (fluent), German (fluent)<br>
