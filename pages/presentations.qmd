@@ -1,0 +1,48 @@
+---
+title: "Talks and Workshops"
+---
+
+## Conferences
+
+- 15.07.23. Albrecht, S., Isiaka, A., Ivanova, M. "[Igbo and Yoruba English vowel spaces compared](https://tuc.cloud/index.php/s/2dJMWmZCooa29gr)". Digital English World Wide in Chemnitz.
+
+- 15-17.06.23. Albrecht, S., Schmied, J., Ivanova, M. "Comparing vowel spaces across three circles: A quantitative corpus-based approach" IAWE25.
+
+- 15-17.06.23. Schmied, J., Albrecht, S., Ivanova, M. "Empirical perception studies on Italian English: Neglected, charming or unaccepted?". IAWE25.
+
+- 17-25.05.23. Ivanova, M. "Competent but cold: Learning outcomes using a pedagogical agent speaking native and non-native varieties". Alexander-von-Humboldt Linguistic Marathon "Empirical English Studies: Discourse-, Corpus-, Psycho- & Computer-Linguistic Approaches" in Brno (CZ), Klagenfurt (AT), Padova, Ferrara, and Modena (IT).
+
+- 30.08.22. Albrecht & Ivanova. "[Talking about news articles related to the Covid Pandemic on Twitter. Global Discourse and Intertextuality](https://tuc.cloud/index.php/s/AsrfXfmrxRiCHWK)". Talk at the European Society for the Study of English Conference 2022 Mainz. GitLab repository: [https://mytuc.org/vkjk](https://mytuc.org/vkjk)
+
+- 07.06.22. "[German English-medium linguistics journal abstracts over the last 30 years: Quantitative and qualitative structural developments.](https://tuc.cloud/index.php/s/pxQeBZi3FStH8Ts)". Talk at the Summer School Digital Humanities at the University of Modena and Reggio Emilia (Italy) 06-10 June 2022.
+
+- 26.05.22. "[Open digital peer conference reviews: Towards a transparent constructive critical discourse to advance science](https://tuc.cloud/index.php/s/6RqXp8xbTty3gPP)". Talk at the online International Conference “Digital Genres and Open Science” at the University of Zaragoza (Spain) 26-27 May 2022.
+
+- 02.09.21. Schmied and Ivanova. "[Academic Writing Conventions in English MA Theses before and after Bologna: Global Rhetorical Structures and Stance in Sub-Disciplines at a German University](https://tuc.cloud/index.php/s/gXmiikLmTz8Jn7t)" Seminar talk at the 2021 online ESSE conference.
+
+- 10.08.20. Ivanova & Schmied. “[Uncertainty in postgraduate training and supervision: A needs analysis for online course development](https://tuc.cloud/index.php/s/m52AtZEsi3p4jcW)”. Digital English World-Wide conference online.
+
+- 06.07.19. “Semantic and pragmatic truth implications of concession in single- and double-blind open peer review.” Digital English World-Wide conference in Chemnitz.
+
+## Workshops
+
+- 28-30.03.2022. Online Workshop [Hands-on formatting with MS Word and reference management with Zotero](https://tuc.cloud/index.php/s/onejf2Fiq7PrZ2e). [TEFL-ePal](https://www.tu-chemnitz.de/phil/english/sections/ling/TEFL-ePal/TEFL-ePal.php) Dissemination.
+
+- 23.11.2021. "Hands-on Corpus Linguistics workshop. The Corona Corpus (Davies 2019-) and AntConc (Anthony 2020)". Formatting workshop.
+
+- 10.11.21. Hands-on introductory workshop with R. Faculty of Pedagogy, Masaryk University Brno.
+
+- 12.10.21. "[Interview preparation. Introduction to data processing with Praat (Boersma & Weenink 2021)](https://tuc.cloud/index.php/s/57EX9NsZNmE2Lsk)" CASE PhD workshop.
+
+- 15.12.20. “[What the APA 7 teaches us outside citation and formatting.](https://tuc.cloud/index.php/s/AoFpm9DqE7dARg3)” Workshop at the online Chemnitz Africa/Asia Symposium on English (CASE).
+
+- 27.10.20. “[Smart online research and discourse annotation.](https://tuc.cloud/index.php/s/aTwT4ieRHsNWocB)” Workshop at the online Summer School From Uncertainty to Confidence and Trust. 
+
+- 25.08.19. “[Beyond the 6 WH: Preparing, conducting and presenting impactful interviews.](https://tuc.cloud/index.php/s/e579X45oSzo6HoL)” Workshop at the Summer School Conflicting Truths in Academic and Journalistic Writing in Ohrid, N. Macedonia.
+
+## Interviews
+
+- 09.03.21. Interview for [Freie Presse / Felix Heck](https://www.freiepresse.de/chemnitz/studieren-fern-der-heimat-und-ohne-pers-nliche-treffen-artikel11383443). Studieren fern der Heimat - und ohne persönliche Treffen.
+
+- 17.12.20. Interview for [Uni Aktuell](https://www.tu-chemnitz.de/tu/pressestelle/aktuell/10495). "Chemnitz ist für mich neue Heimat und weite Welt zugleich."
+

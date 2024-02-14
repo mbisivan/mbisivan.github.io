@@ -1,0 +1,32 @@
+{
+  "index.qmd": {
+    "index.html": "8c62a147"
+  },
+  "pages/about.qmd": {
+    "about.html": "a11f8bcd"
+  },
+  "pages/cv.qmd": {
+    "cv.html": "514235df"
+  },
+  "pages/intro.qmd": {
+    "intro.html": "c3927145"
+  },
+  "pages/presentations.qmd": {
+    "presentations.html": "f1998610"
+  },
+  "pages/publications.qmd": {
+    "publications.html": "5daab745"
+  },
+  "pages/resources.qmd": {
+    "resources.html": "66895de4"
+  },
+  "pages/summary.qmd": {
+    "summary.html": "7b816ccc"
+  },
+  "pages/teaching.qmd": {
+    "teaching.html": "e06a7b99"
+  },
+  "pages/workshops.qmd": {
+    "workshops.html": "01296b6e"
+  }
+}

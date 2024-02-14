@@ -1,0 +1,8 @@
+# About me
+
+I have successfully completed my PhD in English Linguistics from the Chemnitz University of Technology. I am interested in bridging the fields of neurolinguistics, psycholinguistics, phonology, second language acquisition, and corpus linguistics. My PhD project used evidence from experiments with electroencephalography (EEG) to study the perception of word stress cues by speakers of Slavonic Englishes. My thesis also presented phonetic and phonological analyses on Czech English features and proposed a concept for a tool for training perception and production of segmentals and suprasegmentals following the High-Variability Perceptual Training method.
+
+
+# About this website
+
+This website was built with [Quarto](https://quarto.org/docs/websites/) based on a template by [daniela-palleschi.github.io](https://github.com/daniela-palleschi/daniela-palleschi.github.io) (Thank you for the template!).
