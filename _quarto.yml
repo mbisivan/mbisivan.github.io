@@ -1,0 +1,55 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Marina Ivanova"
+  twitter-card: 
+    site: "@mbisivan"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - pages/about.qmd
+      - href: pages/cv.qmd
+        text: CV
+      - pages/publications.qmd
+      - pages/presentations.qmd
+      - href: pages/teaching.qmd
+        text: Teaching
+      - href: pages/resources.qmd
+    tools:
+      - icon: twitter
+        href: https://twitter.com/MBIvanova
+      - icon: github
+        menu:
+          - text: Source Code
+            url:  https://github.com/mbisivan/mbisivan.github.io/
+  sidebar:
+    style: "docked"
+    search: true
+    contents:
+      - index.qmd
+
+format:
+  html:
+    theme:
+      light: flatly
+      dark: darkly
+    code-tools: true
+    css: styles.css
+    toc: true
+    #include-after-body: custom.html
+    page-layout: full
+    self-contained: true
+
+bibliography: references.bib
+csl: apa.csl
+
+execute:
+  echo: false
+  warning: false
+  message: false
+
+
+
