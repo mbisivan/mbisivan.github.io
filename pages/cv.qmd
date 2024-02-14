@@ -26,16 +26,16 @@ PhD, English Language and Linguistics, Chemnitz University of Technology [2020 -
 
 MA English and American Studies at TU Chemnitz [2017 - 2020]{style="float:right"}<br>
 
-BA English and American Studies at TU Chemnitz [2014 - 2017]{style="float:right"}t<br>
+BA English and American Studies at TU Chemnitz [2014 - 2017]{style="float:right"}<br>
 
-Semester abroad at Université de Poitiers, France [2016 - 2017] <br>
+Semester abroad at Université de Poitiers, France [2016 - 2017]{style="float:right"}<br>
 
 ## Awards
 
-**Saxon State Scholarship for PhD studies** [2020 - 2023]{style="float:right"}<br>
-**DAAD prize for excellent achievements of international students** [2020]{style="float:right"}<br>
-**Marie-Pleißner prize for excellent Master’s thesis** [2020]{style="float:right"}<br>
-**H. Charles-Lipmann prize for poetry in English** [2018]{style="float:right"}<br>
+Saxon State Scholarship for PhD studies [2020 - 2023]{style="float:right"}<br>
+DAAD prize for excellent achievements of international students [2020]{style="float:right"}<br>
+Marie-Pleißner prize for excellent Master’s thesis [2020]{style="float:right"}<br>
+H. Charles-Lipmann prize for poetry in English [2018]{style="float:right"}<br>
 
 ## Teaching
 

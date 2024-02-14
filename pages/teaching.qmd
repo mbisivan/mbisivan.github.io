@@ -2,8 +2,6 @@
 title: "Teaching"
 ---
 
-## Courses
-
 - Seminar (BA2) "Language Production and Perception", TU Chemnitz [summer 2023]{style="float:right"}<br>
 - Teaching assistance, "Empirical linguistic research for postgraduates", TU Chemnitz [winter 2020]{style="float:right"}<br>
 
