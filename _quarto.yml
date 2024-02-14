@@ -25,11 +25,11 @@ website:
         menu:
           - text: Source Code
             url:  https://github.com/mbisivan/mbisivan.github.io/
-  sidebar:
-    style: "docked"
-    search: true
-    contents:
-      - index.qmd
+  #sidebar:
+  #  style: "docked"
+  #  search: true
+  #  contents:
+  #    - index.qmd
 
 format:
   html:
