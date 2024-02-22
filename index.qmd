@@ -1,12 +1,12 @@
 ---
-title: "Marina Ivanova"
+title: "Dr. Marina Ivanova"
 about:
   id: about-heading
   template: trestles
   image: images/profile.png
   links:
     - icon: twitter
-      text: Twitter
+      text: Twitter/X
       href: https://twitter.com/MBIvanova
     - icon: github
       text: Github
