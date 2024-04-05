@@ -28,7 +28,6 @@ I am a researcher in English linguistics at Chemnitz University of Technology, w
 
 Email: marina.ivanova[at]phil.tu-chemnitz.de
 
-## News
 | Date     | News                                                                                                                                                                                         |
 |----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 01.04.24 | I am happy to join the TU Chemnitz Digital Linguistics team as a researcher (Wissenschaftliche Mitarbeiterin).                                                                                  |
