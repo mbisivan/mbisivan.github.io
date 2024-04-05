@@ -3,6 +3,9 @@ title: "Curriculum Vitae"
 ---
 
 ## Professional experience
+**Researcher** [2024 - today]{style="float:right"}<br>
+ English and Digital Linguistics, TU Chemnitz<br>
+
 **Scientific assistant** [2019 - 2022]{style="float:right"}<br>
  English Language and Linguistics, TU Chemnitz<br>
  - Coordinator of two DAAD projects with Southeast Europe<br>
