@@ -24,13 +24,11 @@ format:
 
 I am a researcher in English linguistics at Chemnitz University of Technology, working in the areas of second language perception and production, corpus linguistics and academic writing. 
 
-## Contact
-
 Email: marina.ivanova[at]phil.tu-chemnitz.de
 
 | Date     | News                                                                                                                                                                                         |
 |----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 01.04.24 | I am happy to join the TU Chemnitz Digital Linguistics team as a researcher (Wissenschaftliche Mitarbeiterin).                                                                                  |
+| 01.04.24 | I am happy to join the TU Chemnitz English and Digital Linguistics team as a researcher (Wissenschaftliche Mitarbeiterin).                                                                                  |
 | 02.02.24 | My PhD thesis on the perception and production of word stress cues in Slavic English varieties is now [online](https://nbn-resolving.org/urn:nbn:de:bsz:ch1-qucosa2-892831). |
 
 :::
