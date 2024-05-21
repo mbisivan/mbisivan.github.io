@@ -17,7 +17,6 @@ website:
       - pages/presentations.qmd
       - href: pages/teaching.qmd
         text: Teaching
-      - href: pages/resources.qmd
     tools:
       - icon: twitter
         href: https://twitter.com/MBIvanova
