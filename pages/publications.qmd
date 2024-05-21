@@ -3,21 +3,21 @@ title: Publications
 --- 
 ## Journal articles
 
-- Ivanova, M., Neubert, C. R., Schmied, J., & Bendixen, A. (2023). ERP evidence for Slavic and German word stress cue sensitivity in English. *Frontiers in Psychology 14*. doi: [10.3389/fpsyg.2023.1193822](https://doi.org/10.3389/fpsyg.2023.1193822) (Preprint *PsyArXiv* doi: [10.31234/osf.io/hqr34](http://doi.org/10.31234/osf.io/hqr34))
+- Ivanova, M., Neubert, C. R., Schmied, J., & Bendixen, A. (2023). ERP evidence for Slavic and German word stress cue sensitivity in English. Frontiers in Psychology 14. doi: <a href="https://doi.org/10.3389/fpsyg.2023.1193822" target="_blank">10.3389/fpsyg.2023.1193822</a> (Preprint PsyArXiv doi: <a href="http://doi.org/10.31234/osf.io/hqr34" target="_blank">10.31234/osf.io/hqr34</a>)
 
-- Ivanova, M. & Schmied, J. (2023). From cues to features: Bridging psycho- and sociolinguistics in the development of non-native English stimuli. *TESOL Communications 2*(2), 1-17. doi: [10.58304/tc.20230201](https://doi.org/10.58304/tc.20230201)
+- Ivanova, M. & Schmied, J. (2023). From cues to features: Bridging psycho- and sociolinguistics in the development of non-native English stimuli. TESOL Communications 2(2), 1-17. doi: <a href="https://doi.org/10.58304/tc.20230201" target="_blank">10.58304/tc.20230201</a>
 
-- Ivanova, M. (2023). German English-medium linguistics journal abstracts over the last 30 years: Quantitative and qualitative structural developments. *TOKEN: A Journal of English Linguistics. 16*, 89-113. [https://token.ujk.edu.pl/wp-content/uploads/04_M_Ivanova.pdf](https://token.ujk.edu.pl/wp-content/uploads/04_M_Ivanova.pdf)
+- Ivanova, M. (2023). German English-medium linguistics journal abstracts over the last 30 years: Quantitative and qualitative structural developments. TOKEN: A Journal of English Linguistics. 16, 89-113. <a href="https://token.ujk.edu.pl/wp-content/uploads/04_M_Ivanova.pdf" target="_blank">https://token.ujk.edu.pl/wp-content/uploads/04_M_Ivanova.pdf</a>
 
-- Schmied, J., & Ivanova, M. (2023). English MA Theses at a German University before and after the Bologna reform: Comparing global rhetorical structures and stance in Linguistics and Cultural Studies. *TOKEN: A Journal of English Linguistics. 16*, 169-196. [https://token.ujk.edu.pl/wp-content/uploads/07_J_Schmied_M_Ivanova.pdf](https://token.ujk.edu.pl/wp-content/uploads/07_J_Schmied_M_Ivanova.pdf)
+- Schmied, J., & Ivanova, M. (2023). English MA Theses at a German University before and after the Bologna reform: Comparing global rhetorical structures and stance in Linguistics and Cultural Studies. TOKEN: A Journal of English Linguistics. 16, 169-196. <a href="https://token.ujk.edu.pl/wp-content/uploads/07_J_Schmied_M_Ivanova.pdf" target="_blank">https://token.ujk.edu.pl/wp-content/uploads/07_J_Schmied_M_Ivanova.pdf</a>
 
 - Ivanova, M. (accepted). Training word stress perception and production with technology. _The EUROCALL Review_.
   
 ## Edited volumes
 
-- Schmied, J., & Ivanova, M. (Eds.) (2023). [*Comparing confidence and trust online and offline*](https://cuvillier.de/de/shop/publications/8837-comparing-confidence-and-trust-online-and-offline). REAL19. Cuvillier.
+- Schmied, J., & Ivanova, M. (Eds.) (2023). <a href="https://cuvillier.de/de/shop/publications/8837-comparing-confidence-and-trust-online-and-offline" target="_blank">*Comparing confidence and trust online and offline*</a>. REAL19. Cuvillier.
 
-- Schmied, J., Dheskali, J., & Ivanova, M. (Eds.) (2022). [*From uncertainty to confidence and trust*](https://cuvillier.de/de/shop/publications/8661-from-uncertainty-to-confidence-and-trust). Cuvillier.
+- Schmied, J., Dheskali, J., & Ivanova, M. (Eds.) (2022). <a href="https://cuvillier.de/de/shop/publications/8661-from-uncertainty-to-confidence-and-trust" target="_blank">*From uncertainty to confidence and trust*</a>. Cuvillier.
 
 ## Contributions to edited volumes
 
@@ -29,18 +29,18 @@ title: Publications
 
 ## Book reviews
 
-- Ivanova, M. (2022). [Review of the book *Scientific and Parascientific Communication* edited by P. Mur-Dueñas and R. Lorés] *Discourse and Interaction 15*(2), 151-154. [https://journals.muni.cz/discourse-and-interaction/article/view/32959](https://journals.muni.cz/discourse-and-interaction/article/view/32959/28429)
+- Ivanova, M. (2022). [Review of the book *Scientific and Parascientific Communication* edited by P. Mur-Dueñas and R. Lorés] *Discourse and Interaction 15*(2), 151-154. <a href="https://journals.muni.cz/discourse-and-interaction/article/view/32959" target="_blank">https://journals.muni.cz/discourse-and-interaction/article/view/32959</a>
 
-- Ivanova, M. (2021). [Review of the book *Academic Writing with Corpora. A Resource Book for Data-Driven Learning*, by T. Karpenko-Seccombe] *Discourse and Interaction*, *14*(2), 126-130. [https://journals.muni.cz/discourse-and-interaction/article/view/18670/14733](https://journals.muni.cz/discourse-and-interaction/article/view/18670/14733)
+- Ivanova, M. (2021). [Review of the book *Academic Writing with Corpora. A Resource Book for Data-Driven Learning*, by T. Karpenko-Seccombe] *Discourse and Interaction*, *14*(2), 126-130. <a href="https://journals.muni.cz/discourse-and-interaction/article/view/18670/14733" target="_blank">https://journals.muni.cz/discourse-and-interaction/article/view/18670/14733</a>
 
 ## Media Articles
 
-- Ivanova, M. 20.09.22. Creating Confidence and Trust in Southeast Europe. [*Uni aktuell*](https://www.tu-chemnitz.de/tu/pressestelle/aktuell/11476/en).
+- Ivanova, M. 20.09.22. Creating Confidence and Trust in Southeast Europe. <a href="https://www.tu-chemnitz.de/tu/pressestelle/aktuell/11476/en" target="_blank">*Uni aktuell*</a>.
 
-- 27.07.22. "War", "Conflict", or "Special Operation"? Confidence and Trust in Digital Discourse. [*Uni aktuell*](https://www.tu-chemnitz.de/tu/pressestelle/aktuell/11399/en).
+- 27.07.22. "War", "Conflict", or "Special Operation"? Confidence and Trust in Digital Discourse. <a href="https://www.tu-chemnitz.de/tu/pressestelle/aktuell/11399/en" target="_blank">*Uni aktuell*</a>.
 
-- 03.11.21. Confidence and Trust in Hybrid Communication. [*Uni aktuell*](https://www.tu-chemnitz.de/tu/pressestelle/aktuell/10983/en).
+- 03.11.21. Confidence and Trust in Hybrid Communication. <a href="https://www.tu-chemnitz.de/tu/pressestelle/aktuell/10983/en" target="_blank">*Uni aktuell*</a>.
 
-- 29.01.21. Internationalisation from Home. [*Uni aktuell*](https://www.tu-chemnitz.de/tu/pressestelle/aktuell/10550/en).
+- 29.01.21. Internationalisation from Home. <a href="https://www.tu-chemnitz.de/tu/pressestelle/aktuell/10550/en" target="_blank">*Uni aktuell*</a>.
 
-- 11.06.19. How to deal with conflicting truths. [*Uni aktuell*](https://www.tu-chemnitz.de/tu/pressestelle/aktuell/9509/en).
+- 11.06.19. How to deal with conflicting truths. <a href="https://www.tu-chemnitz.de/tu/pressestelle/aktuell/9509/en" target="_blank">*Uni aktuell*</a>.

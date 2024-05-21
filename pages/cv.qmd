@@ -42,15 +42,15 @@ H. Charles-Lipmann prize for poetry in English [2018]{style="float:right"}<br>
 
 ## Teaching
 
-See [Teaching](https://mbisivan.github.io/pages/teaching.html)
+See <a href="https://mbisivan.github.io/pages/teaching.html" target="_blank">Teaching</a>
 
 ## Publications
 
-See [Publications](https://mbisivan.github.io/pages/publications.html)
+See <a href="https://mbisivan.github.io/pages/publications.html" target="_blank">Publications</a>
 
 ## Talks and Workshops
 
-See [Talks](https://mbisivan.github.io/pages/presentations.html)
+See <a href="https://mbisivan.github.io/pages/presentations.html" target="_blank">Talks</a>
 
 ## Skills
 Bulgarian (native), English (fluent), German (fluent)<br>
@@ -75,7 +75,7 @@ Data acquisition at the Masaryk University Brno, Czech Republic [30.10-04.11.22,
 
 
 ## Additional activities
-Bulgarian transcriber for ["Declining Case: Inflectional Loss in Progress"](https://www.smg.surrey.ac.uk/projects/declining-case-inflectional-loss-in-progress/),
+Bulgarian transcriber for <a href="https://www.smg.surrey.ac.uk/projects/declining-case-inflectional-loss-in-progress/" target="_blank">"Declining Case: Inflectional Loss in Progress"</a>,
 University of Surrey [2024 - today]{style="float:right"}<br>
 Alumna ambassador for the TU Chemnitz for Bulgaria [2023 - 2025]{style="float:right"}<br>
 Summer School "Digital Humanities" at UNIMORE Modena, Italy [2021, 2022]{style="float:right"}<br>
