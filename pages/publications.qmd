@@ -2,6 +2,9 @@
 title: Publications
 --- 
 ## Journal articles
+- Ivanova, M. (2024). Training English word stress perception and production with technology. The EuroCALL Review, 31(2), 45-56. doi: <a href="https://doi.org/10.4995/eurocall.2024.20400" target="_blank">10.4995/eurocall.2024.20400</a> 
+
+- Albrecht, S., Ivanova, I., Schmied, J. (2024). Durational variation across inner/outer/expanding circle varieties of English. English World-Wide. doi: <a href="https://doi.org/10.1075/eww.23023.alb" target="_blank">10.1075/eww.23023.alb</a> 
 
 - Ivanova, M., Neubert, C. R., Schmied, J., & Bendixen, A. (2023). ERP evidence for Slavic and German word stress cue sensitivity in English. Frontiers in Psychology 14. doi: <a href="https://doi.org/10.3389/fpsyg.2023.1193822" target="_blank">10.3389/fpsyg.2023.1193822</a> (Preprint PsyArXiv doi: <a href="http://doi.org/10.31234/osf.io/hqr34" target="_blank">10.31234/osf.io/hqr34</a>)
 
