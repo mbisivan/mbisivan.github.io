@@ -1,6 +1,7 @@
 ---
 title: "Talks and Workshops"
 ---
+Contributions prior to 2025 are under the name Ivanova.
 
 ## Conferences
 
@@ -23,7 +24,11 @@ title: "Talks and Workshops"
 - Ivanova, M. & Schmied, J. (10.08.20). <a href="https://tuc.cloud/index.php/s/m52AtZEsi3p4jcW" target="_blank">"Uncertainty in postgraduate training and supervision: A needs analysis for online course development"</a>. Digital English World-Wide conference online.
 
 - Ivanova, M. (06.07.19). “Semantic and pragmatic truth implications of concession in single- and double-blind open peer review.” Digital English World-Wide conference in Chemnitz.
+
 ## Workshops
+- 21.01.24. The time course of revisions in foreign language writing. Research Colloquium English and Digital Linguistics, TU Chemnitz.
+
+- 22.11.22. Considerations for psycholinguistic experiments: Preparing a study on English learners’ word stress perception. Research Colloquium English and Digital Linguistics, TU Chemnitz.
 
 - 28-30.03.22. Online Workshop <a href="https://tuc.cloud/index.php/s/onejf2Fiq7PrZ2e" target="_blank">Hands-on formatting with MS Word and reference management with Zotero</a>. <a href="https://www.tu-chemnitz.de/phil/english/sections/ling/TEFL-ePal/TEFL-ePal.php" target="_blank">TEFL-ePal</a> Dissemination.
 
@@ -41,6 +46,10 @@ title: "Talks and Workshops"
 
 ## Summer schools
 - 24.07.24. "From ‘Frankenfood’ to ‘designer’ babies: Metaphors for recontextualization in online science communication". Poster at the ISLE 2024 Summer School in Freiburg. 
+
+- 07.06.22. "German English medium linguistics journal abstracts over the last 30 years: Quantitative and qualitative structural developments". Summer School Digital Humanities and Digital Communication: New Approaches to Core Questions. University of Modena and Reggio Emilia, Italy.
+
+- 08.07.21. "The role of multimodality in electroencephalographic (EEG) experiments on the perception of word stress cues by speakers of Slavonic Englishes". Summer School Digital Humanities and Digital Communication: Multimodality and Transmediality. University of Modena and Reggio Emilia, Italy.
 
 ## Science Communication
 - 06.11.24. "Wenn Ohren und Zunge nicht gehorchen und Agathe Bauer das Blaue vom Schimmel verspricht". Beerology science pub crawl.

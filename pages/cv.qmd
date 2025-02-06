@@ -61,8 +61,10 @@ Text analysis and annotation - AntConc, INCEpTION, Python<br>
 Version control -- Git 
 
 
-## Organisation
-Organised workshops and summer schools in the frame of the DAAD projects "From Uncertainty to Confidence and Trust" (2020),  "Constructing Confidence and Trust Online" (2021) and "Comparing Confidence and Trust Online and Offline" (2022).
+## Projects
+Project leader of the DAAD cooperation project <a href="https://www.tu-chemnitz.de/phil/english/sections/edling/research/scicom.php" target="_blank">"I, Expert: Media competence for science through linguistics"</a> in cooperation with the University of Zaragoza<br> [2024]{style="float:right"}<br>
+
+Organised workshops and summer schools in the frame of the DAAD projects "From Uncertainty to Confidence and Trust" (2020),  "Constructing Confidence and Trust Online" (2021) and "Comparing Confidence and Trust Online and Offline" (2022) [2020 - 2022]{style="float:right"}<br>
 
 ## Memberships
 

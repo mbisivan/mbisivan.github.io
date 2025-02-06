@@ -1,5 +1,5 @@
 ---
-title: "Dr. Marina Ivanova"
+title: "Dr. Marina Beccard"
 about:
   id: about-heading
   template: trestles
@@ -24,10 +24,11 @@ format:
 
 I am a researcher in English linguistics at Chemnitz University of Technology, working in the areas of second language perception and production, corpus linguistics and academic writing. 
 
-Email: marina.ivanova[at]phil.tu-chemnitz.de
+Email: marina.beccard[at]phil.tu-chemnitz.de
 
 | Date       | News                                                                                                                                                                                                                                                                          |
 |------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 23.01.25   | I got married and have a new name: Marina Beccard                  |
 | 16.12.24   | New review paper on training English word stress with technology at <a href="https://doi.org/10.4995/eurocall.2024.20400" target="_blank">EuroCALL Review</a>!                 |
 | 10.07.24   | Happy to announce my new DAAD project <a href="https://www.tu-chemnitz.de/phil/english/sections/edling/research/scicom.php" target="_blank">"I, Expert: Media competence for science through linguistics"</a> in cooperation with the University of Zaragoza!                 |
 | 21.05.24   | Excited for two new articles on "German English-medium linguistics journal abstracts over the last 30 years" and "English MA Theses at a German University before and after the Bologna reform" published in *TOKEN: A Journal of English Linguistics. 16*  (see <a href="https://mbisivan.github.io/pages/publications.html" target="_blank">Publications</a>) |

@@ -1,6 +1,8 @@
 ---
 title: Publications
 --- 
+Publications prior to 2025 are under the name Ivanova.
+
 ## Journal articles
 - Ivanova, M. (2024). Training English word stress perception and production with technology. The EuroCALL Review, 31(2), 45-56. doi: <a href="https://doi.org/10.4995/eurocall.2024.20400" target="_blank">10.4995/eurocall.2024.20400</a> 
 
@@ -38,7 +40,7 @@ title: Publications
 
 ## Media Articles
 
-- 10.10.24 “I, Expert” Conference: Advancing Media Competence in Science through Linguistics <a href="https://www.tu-chemnitz.de/tu/pressestelle/aktuell/12636/en" target="_blank">*Uni aktuell*</a>
+- 10.10.24. “I, Expert” Conference: Advancing Media Competence in Science through Linguistics <a href="https://www.tu-chemnitz.de/tu/pressestelle/aktuell/12636/en" target="_blank">*Uni aktuell*</a>
 
 - 20.09.22. Creating Confidence and Trust in Southeast Europe. <a href="https://www.tu-chemnitz.de/tu/pressestelle/aktuell/11476/en" target="_blank">*Uni aktuell*</a>.
 
