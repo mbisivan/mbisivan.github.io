@@ -28,6 +28,7 @@ Email: marina.beccard[at]phil.tu-chemnitz.de
 
 | Date       | News                                                                                                                                                                                                                                                                          |
 |------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 02.09.25   | New paper with Albrecht and Schmied on Chinese English vowels in <a href="https://doi.org/10.1080/13488678.2025.2551884">Asian Englishes</a>                  |
 | 11.07.25   | New paper with Albrecht and Schmied on learning with different English varieties of text-to-speech systems in <a href="https://doi.org/10.5817/BSE2024-2-1">BSE</a>                  |
 | 28.06.25   | New paper on the genre of expert statements in <a href="https://doi.org/10.5817/DI2025-1-58">D&I</a>                  |
 | 23.01.25   | I got married and have a new name: Marina Beccard                  |

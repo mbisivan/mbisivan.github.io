@@ -5,6 +5,8 @@ Contributions prior to 2025 are under the name Ivanova.
 
 ## Conferences
 
+- Coelho, S. G., Kaden, S., Beccard, M., Röhrbein, F., & Sanchez-Stockhammer, C. (2025). <a href="https://doi.org/10.1145/3743049.3748536" target="_blank">"Another bit. Upwards. Okay, stop." Do we talk differently to humans and robots when assembling a shelf together?</a> In Proceedings of the Mensch Und Computer 2025 (pp. 465–470). Association for Computing Machinery, New York, NY, USA.
+
 - Beccard, M. (07.04.25). <a href="https://lingcomm.org/2025/03/10/lightning-talks-lingcomm25/">"How to pass the bar as a linguist"</a>. LingComm25 online.
 
 - Albrecht, S., Isiaka, A., Ivanova, M. (15.07.23). <a href="https://tuc.cloud/index.php/s/2dJMWmZCooa29gr" target="_blank">"Igbo and Yoruba English vowel spaces compared"</a>. Digital English World Wide in Chemnitz.
